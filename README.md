@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dheerajgaur24
-- 👀 I’m interested in data analysis and Science
-- 🌱 I’m currently learning data analysis and Science
+- 👀 I’m a data scientist
+- 🌱 I’m currently learning Gen AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dharm_gaur on insta
 - 😄 Pronouns: ...
