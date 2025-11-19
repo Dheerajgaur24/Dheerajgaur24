@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dheerajgaur24
-- 👀 I’m a data scientist
+- 👀 I’m a data analytics and data scientist
 - 🌱 I’m currently learning Gen AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dharm_gaur on insta
